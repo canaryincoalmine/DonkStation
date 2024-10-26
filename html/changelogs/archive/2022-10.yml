@@ -1,0 +1,23 @@
+2022-10-06:
+  AcapitalA:
+  - imageadd: The captain's sabre looks a bit cooler when held!
+  TheChosenEvilOne:
+  - rscadd: Added slicing airlocks open with energy swords.
+2022-10-07:
+  Sparkezel:
+  - imageadd: added 2 new outfits to the detective autodrobe
+2022-10-14:
+  TheChosenEvilOne:
+  - rscdel: Wounds have been removed from code.
+  - rscdel: Due to wound removal scars have also been removed.
+  - tweak: Wound related heretic abilities now use bleeding.
+2022-10-15:
+  EdgeLordExe:
+  - rscadd: Adds bloodlust quirk that heals 7.5 stamina damage per unarmed melee hit
+      you do
+  - rscadd: Adds harm-averse quirk that deals 7.5 stamina damage per unarmed melee
+      hit you do
+2022-10-17:
+  AcapitalA:
+  - rscadd: The default cyborg has returned!
+  - balance: The default cyborg's zipties have been moved to the emag-only section.
